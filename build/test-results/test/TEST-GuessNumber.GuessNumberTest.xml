@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="GuessNumber.GuessNumberTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-04-10T06:37:58" hostname="CNtigarhe.local" time="0.001">
+  <properties/>
+  <testcase name="should_return_compare_result_when_input_a_number_and_pick" classname="GuessNumber.GuessNumberTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

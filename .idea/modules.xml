@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Guess_Number.iml" filepath="$PROJECT_DIR$/.idea/modules/Guess_Number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Guess_Number_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Guess_Number_main.iml" group="Guess_Number" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Guess_Number_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Guess_Number_test.iml" group="Guess_Number" />
+    </modules>
+  </component>
+</project>
